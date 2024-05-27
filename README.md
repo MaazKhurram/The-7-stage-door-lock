@@ -14,8 +14,7 @@ A 5-stage authentication door lock with modular design. An LED screen prompts th
 
 Additional Features:
 - Distance activation (The lock senses if an object comes near it and turns on, otherwise stays on energy-saving mode)
-
-- Heat activation (The lock senses if the object in its vicinity emits a heat profile similar to humans)
+- Heat activation (The lock senses if the object in its vicinity emits a heat profile similar to humans)
 - Secret 2-step quick access for emergencies
 - Alarm after 3 failed attempts and an automatic email sent to a pre-programmed email address
 - Door lock power supply protection to prevent lock tampering/vandalism.
