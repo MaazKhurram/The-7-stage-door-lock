@@ -2,10 +2,15 @@
 A 5-stage authentication door lock with modular design. An LED screen prompts the user before each verification stage. The 5 steps of identification are as follows:
 
 1: Heart Rate detection 
+
 2: CAPTCHA verification
+
 3: RFID verification 
+
 4: Ten-digit PIN 
+
 5: Fingerprint Verification 
+
 
 Additional Features:
 - Distance activation (The lock senses if an object comes near it and turns on, otherwise stays on energy-saving mode)
